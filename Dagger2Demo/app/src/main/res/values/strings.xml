@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dagger2Demo</string>
+
+    <string name="douban_detail_imge">douban_detail_image</string>
+</resources>
